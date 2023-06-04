@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=lcantonelli&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lcantonelli&layout=compact&langs_count=10&hide_border=true&theme=merko">
+
+
+### Contact me
