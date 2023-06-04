@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=lcantonelli&theme=merko&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=lcantonelli&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lcantonelli&layout=compact&count_private=true&langs_count=10&hide_border=true&theme=merko">
 
