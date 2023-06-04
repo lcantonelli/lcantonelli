@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lcantonelli&layout=compact&langs_count=10&hide_border=true&theme=merko">
 
+<img src="https://github-profile-trophy.vercel.app/?username=lcantonelli&column=2">
 
 ### Contact me
